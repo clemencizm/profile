@@ -70,9 +70,9 @@ h2 {color: #698C8C}
 
 .flex {display: flex;}
 
-.column {flex-flow: column wrap;}
+.column {flex-flow: column;}
 
-.width-auto {flex-basis: fit-content;}
+.width-fit-full {width: fit-content;}
 
 .margin-auto {margin-left: auto; margin-right:auto;}
 
