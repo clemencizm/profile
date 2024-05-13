@@ -16,6 +16,10 @@ h1 {
 
 h1, a {display: inline-block;}
 
+h2 {
+  font-size: 1rem;
+}
+
 a.btn {text-decoration: none;}
 
 
@@ -37,7 +41,7 @@ a.btn {text-decoration: none;}
 /* .neutral-80 */
 h2 {color: #698C8C}
 
-.neutral-10-bgd {background-color: #F2F8F7;}
+.neutral-10-bgd {background-color: #e0e4e4;}
 
 
 /*-----GLOBAL STYLING --------------------------------------------*/
@@ -46,35 +50,6 @@ h2 {color: #698C8C}
 
 .shadow-btn {box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);}
 
-.shadox-card {box-shadow: 3px 3px 10px rgba(105, 140, 140, 0.4);}
-
-.text-center {text-align: center;}
-
-.img-circle {
-  width: 120px;
-  border-radius: 50% 90%;
-}
-
-.list-inline {
-  list-style: none;
-  padding-left:0;
-}
-
-.list-inline li {
-  display: inline;
-}
-
-.list-inline li:last-child {
-  margin-left: 24px;
-}
-
-.flex {display: flex;}
-
-.column {flex-flow: column;}
-
-.width-fit-full {width: auto;}
-
-.margin-auto {margin-left: auto; margin-right:auto;}
 
 /* COMPONENTS -------------------------------------------- */
 
@@ -83,12 +58,19 @@ h2 {color: #698C8C}
   margin: 48px auto;
 }
 
-.card {
-  border-radius: 8px;
-  border: 1px solid #FFC8C2;
-  padding: 24px 42px 32px;
-  margin-bottom: 32px;
+.card.colored, #likes .list-group-item {
   background-color: #FFEDEB;
+}
+
+ img.img-thumbnail {width: 64px;}
+
+.card.colored {
+  border: 1px solid #FFC8C2;
+  margin-bottom: 32px;
+}
+
+.list-group-item {
+  font-size: .9rem;
 }
 
 .btn {
