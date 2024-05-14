@@ -36,10 +36,10 @@ a.btn {text-decoration: none;}
 
 /* -------Neutral---------- */
 
-.neutral-10 { color: #F3F6F6;}
+.neutral-10 { color: #f2f1f1;}
 
 /* .neutral-80 */
-h2 {color: #698C8C}
+h2 {color: #A30036;}
 
 .neutral-10-bgd {background-color: #e0e4e4;}
 
@@ -59,10 +59,15 @@ h2 {color: #698C8C}
 }
 
 .card.colored, #likes .list-group-item {
-  background-color: #FFEDEB;
+  background-color: #FCEDF2;
 }
 
- img.img-thumbnail {width: 64px;}
+img.profil {
+  height: 112px;
+  object-fit: cover;
+}
+
+ img.img-thumbnail {width: 38px;}
 
 .card.colored {
   border: 1px solid #FFC8C2;
@@ -80,6 +85,13 @@ h2 {color: #698C8C}
   padding: 12px 12px;
   font-weight: 500;
 }
+
+footer {
+  background-color: #343633;
+  text-align: center;
+  color: white;
+}
+
 
 
 
