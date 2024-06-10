@@ -6,7 +6,7 @@ Hello 👋
 - 📺 💥 I launched my first website in 2001. Create on scratch when <table> was still the main tag!
 - 😎 Began as a graphic design and turn to be a UX - UI designer for more than 15 years.
 - 🖲️ I am a **technical** designer. I perform well in a technically challenging environnement.
-- I am a **design-oriented front-end developer**. 
+- 💻📱 ⚒️ I am a **design-oriented front-end developer**. 
 - 🌐 I have lived in 4 countries for the past 18 years.
 - 💬 I speak French, Spanish, english and studying German.
 - 🤙 Ask me about movies and music.
