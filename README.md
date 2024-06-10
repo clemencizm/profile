@@ -1,6 +1,6 @@
 Hello 👋
 
-- 🤓 I am currently (mars - june 2024) studing wed developement iat LeWagon full time bootcamp.
+- 🤓 I am currently (mars - june 2024) studing wed developement at LeWagon full time bootcamp.
 -     I am currently learning Ruby, Rails, Javascript, Stimulus. Introduction to Vue.
 - 🖼️ I am a designer and somehow always been a front end dev.
 - 📺 💥 I launched my first website in 2001. Create on scratch when <table> was still the main tag!
